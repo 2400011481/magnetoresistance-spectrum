@@ -1,0 +1,10 @@
+# 未发表的原始测量数据，不入库（见 README「数据可得性」）
+data/*.dat
+data/*.txt
+data/*.csv
+
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+.idea/
